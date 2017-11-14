@@ -1,5 +1,5 @@
-console.log("I am an programmer");
-
+console.log("I am a programmer");
+//Adding a comment
 
 //these are code comments
 
